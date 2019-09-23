@@ -1,0 +1,20 @@
+Locales['br'] = {
+	['example'] = 'This is an %s',-- (should use in script like: _U('example', valor to format)),
+	['used_medikit'] = 'você usou 1x Medkit',
+	['Using_Medkit'] = 'Usando Medkit...',
+	['Using_Bandage'] = 'Usando bandagem...',
+  	['used_bandage'] = 'você usou 1x Bandagem',
+  	['tire_fixing'] = 'Consertando um pneu...',
+  	['tire_fixed'] = 'Voce consertou um pneu.',
+  	['tire_notBurst'] = 'Este pneu não está furado.',
+	['tire_canceled'] = 'O conserto foi cancelado.',
+	['Lockpick_Success'] = 'Veiculo destrancado',
+	['Lockpick_Failed'] = 'Você não conseguiu destrancar',
+	['Lockpick_Broke'] = 'Lockpick quebrou.',
+	['Vehicle_not_locked'] = 'Este veículo não está trancado.',
+	['Vehicle_not_near'] = 'Você se afastou do veículo.',
+	['Cant_Fix'] = 'Não há o que consertar.',
+	['tool_broke'] = 'Uma das ferramentas quebrou.',
+	['no_item'] = 'Voce não possui esse item.',
+	['Vehicle_Fixed'] = 'Veículo reparado.'
+}
